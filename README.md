@@ -1,2 +1,2 @@
-# siteTest
+# Tympomania
 first github pages repo
